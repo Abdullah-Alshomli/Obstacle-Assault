@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"D:\\visual studio packeges\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"D:\\visual studio packeges\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"D:\\visual studio packeges\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"D:\\visual studio packeges\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"D:\\visual studio packeges\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\shooa\\Desktop\\git hub d\\Obstacle-Assault\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "C:\\Unreal\\UE_5.1\\Engine\\Source"
+	}
+]
